@@ -1,4 +1,4 @@
-# Search to browser
+imagine# Search to browser
 
 This app forwards `GLOBAL_SEARCH` intents to your default browser.
 
